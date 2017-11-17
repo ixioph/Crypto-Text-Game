@@ -9,18 +9,14 @@ This game was born out of an idea I had after completing a programming challenge
 
 #### INSTRUCTIONS
 
-cout<<"\n*****************************************************\n";
-cout << "Game Guide:\n";
-cout<<"*****************************************************\n";
-cout << "For this cipher, the given keyword is written \nand the alphabet follows the keyword in \ncolumns below. Duplicate letter's are skipped. \nLet's take the key CAT and encrypted message VHALEHI:\n\n";
-cout<<"\t\tC - A - T\nB - D - E\nF - G - H\n";
-cout<<"\t\tI - J - K\nL - M - N\nO - P - Q\n";
-cout<<"\t\tR - S - U\nV - W - X\nY - Z  \n";
-cout<<"\nThen the columns are in arranged in order by \nletter of the first row, and spread out \n'horizontally'. Compare this ordering with the standard \nalphabet to crack the code!\n";
-cout<<"A-D-G-J-M-P-S-W-Z-C-B-F-I-L-O-R-V-Y-T-E-H-K-N-Q-U-X\n";
-cout<<"A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z\n";
-cout<<"\nThus; VHALEHI ...translates to... QUANTUM\n";
-cout<<"*****************************************************\n\n";
+>For this cipher, the given keyword is written on the first row and the normal alphabet is written on the following lines, making sure to use the same number of columns (characters) in each row. Duplicate letters are skipped. Let's take the keyword CAT and encrypted message VHALEHI:<br />
+C - A - T<br />B - D - E<br />F - G - H<br />
+I - J - K<br />L - M - N<br />O - P - Q<br />
+R - S - U<br />V - W - X<br />Y - Z  <br />
+Then the columns are in arranged in order by letter of the first row, and spread out 'horizontally'. Compare this ordering with the standard alphabet to crack the code!<br />
+A-D-G-J-M-P-S-W-Z-C-B-F-I-L-O-R-V-Y-T-E-H-K-N-Q-U-X<br />
+A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z<br />
+Thus; VHALEHI ...translates to... QUANTUM
 
 #### run command:
 ```css
