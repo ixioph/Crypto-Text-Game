@@ -16,7 +16,7 @@ R - S - U<br />V - W - X<br />Y - Z  <br />
 Then the columns are in arranged in order by letter of the first row, and spread out 'horizontally'. Compare this ordering with the standard alphabet to crack the code!<br />
 A-D-G-J-M-P-S-W-Z-C-B-F-I-L-O-R-V-Y-T-E-H-K-N-Q-U-X<br />
 A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z<br />
-Thus; VHALEHI ...translates to... QUANTUM
+Thus; VHALEHI ...translates to... QUANTUM!
 
 #### run command:
 ```css
